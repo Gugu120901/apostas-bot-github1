@@ -1,8 +1,8 @@
 # Configurações gerais
-TELEGRAM_TOKEN = "SEU_TOKEN_AQUI"
-CHANNEL_ID = "@SEU_CANAL_AQUI"
+TELEGRAM_TOKEN = "7992952243\:AAFMQd0wmWrUe6eCCOPC9ZpRBvzebvDZLyg"
+CHANNEL_ID = "@apostasdesportivas123"
 
-API_URL = "https://api.exemplo.com"  # Substitua pela sua fonte de dados
+API_URL = "https://v3.football.api-sports.io"  # Substitua pela sua fonte de dados
 
 LIGAS = [
     "Premier League", "La Liga", "Serie A", "Bundesliga",
